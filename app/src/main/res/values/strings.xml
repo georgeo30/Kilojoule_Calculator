@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Kilojoule</string>
+    <string name="avg_def">view Average NKI</string>
+    <string name="diary_def">View Diary Entries</string>
+    <string name="calc_def">Calculator Launcher to add new data</string>
+    <string name="enter_date">dd-mm-yy</string>
+    <string name="food_text">Select your meal</string>
+    <string name="nki_text">NKI</string>
+    <string name="add_text">add</string>
+    <string name="food_total_text">Food Total</string>
+    <string name="exercise_text">Select your exercise</string>
+    <string name="exercise_total_text">Exercise Total</string>
+    <string name="running_total_text">Nett Total</string>
+    <string name="save_button">Save</string>
+    <string name="exit_button">Overview</string>
+    <string name="back_button">Back</string>
+    <string name="calculator">Calculator</string>
+    <string name="inital_average">Average: 0</string>
+    <string-array name="label_array">
+        <item>Select One</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Snack</item>
+        <item>Dinner</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="exercise_array">
+        <item>Select One</item>
+        <item>Gym</item>
+        <item>Sport</item>
+        <item>Joggin</item>
+        <item>Yoga</item>
+        <item>Pilates</item>
+    </string-array>
+</resources>

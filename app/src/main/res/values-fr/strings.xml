@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kilojoule</string>
+    <string name="add_text">ajouter</string>
+    <string name="avg_def">voir Moyenne NKI</string>
+    <string name="back_button">Retour</string>
+    <string name="calc_def">Calculateur Launcher pour ajouter de nouvelles données</string>
+    <string name="calculator">Calculatrice</string>
+    <string name="diary_def">Voir les entrées du journal</string>
+    <string name="enter_date">dd-mm-yy</string>
+    <string name="exercise_text">Sélectionnez votre exercice</string>
+    <string name="exercise_total_text">Total exercice</string>
+    <string name="exit_button">Vue d\'ensemble</string>
+    <string name="food_text">Choisissez votre repas</string>
+    <string name="food_total_text">Total alimentaire</string>
+    <string name="nki_text">NKI</string>
+    <string name="running_total_text">Total net</string>
+    <string name="save_button">sauvegarder</string>
+    <string-array name="label_array">
+        <item>choisir un</item>
+        <item>Petit déjeuner</item>
+        <item>Le déjeuner</item>
+        <item>Collation</item>
+        <item>Dîner</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="exercise_array">
+        <item>choisir un</item>
+        <item>Gym</item>
+        <item>Sport</item>
+        <item>Le jogging</item>
+        <item>Yoga</item>
+        <item>piˈlätēz</item>
+    </string-array>
+</resources>
